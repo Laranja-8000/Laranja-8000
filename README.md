@@ -37,10 +37,4 @@
     </a>
 </div>
 
-<div align="center">
-    <h1>Others</h1>
-    <a href="https://www.docker.com">
-        <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    </a>
-</div>
 
