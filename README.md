@@ -1,4 +1,4 @@
-## Informatics technician, Bachelor student in, formerly Electrical Engineering, currently Computer Science.
+## Informatics technician, Bachelor student, formerly in Electrical Engineering, currently in Computer Science.
 ### Interested in undestanding, creating and improving tools for diverse uses. 
 
 -----
