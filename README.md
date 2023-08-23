@@ -1,5 +1,5 @@
 ## Informatics technician, Bachelor student, formerly in Electrical Engineering, currently in Computer Science.
-### Interested in undestanding, creating and improving tools for diverse uses. 
+### Interested in undestanding, creating and improving tools and systems for diverse uses. 
 
 -----
 
