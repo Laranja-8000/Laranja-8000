@@ -6,9 +6,11 @@
 <div align="center">
   <h1> Languages</h1>
   
-<a href="https://pt.wikipedia.org/wiki/HTML5">
+<!--a href="https://pt.wikipedia.org/wiki/HTML5">
         <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
+  </a-->
+
+  
 <a href="https://www.python.org">
         <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     </a>
@@ -24,7 +26,19 @@
       <a href="https://www.latex-project.org">
         <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
     </a>
+    <a href="https://fortran-lang.org/pt/">
+      <img alt="Fortran" src="https://img.shields.io/badge/fortran%20-%23008080.svg?&style=for-the-badge&logo=fortran&logoColor=white">
+    </a>
+    <a href="https://fortran-lang.org/pt/">
+      <img alt="Bash" src="https://img.shields.io/badge/bash%20-%23008080.svg?&style=for-the-badge&logo=bash&logoColor=white">
+    </a>
+          <!--a href="https://www.latex-project.org">
+        <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+    </a-->
 </div>
+<a href="https://www.python.org">
+        <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    </a>
 
 
 <div align="center">
