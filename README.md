@@ -1,6 +1,7 @@
 ## Informatics technician, Computer Scientist.
 ### Interested in undestanding, creating and improving tools and systems for diverse uses. 
 
+"A developer is not someone who knows how to write code, but someone who can solve problems and fix mistakes."
 -----
 
 <div align="center">
